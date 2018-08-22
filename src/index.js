@@ -1,5 +1,5 @@
-import DPlayer from 'dplayer'
-import '../node_modules/dplayer/dist/DPlayer.min.css'
+import DPlayer from 'dplayer-cfxtest'
+import '../node_modules/dplayer-cfxtest/dist/DPlayer.min.css'
 
 const VueDPlayer = {
   props: {
